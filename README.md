@@ -1,11 +1,9 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
-
-# Grace Farbin
+# Grace Farbin 👋
 
 <b>Software Engineer • AI/ML • Systems</b>  
-UofT CS (AI Spec) • Building products that ship & scale 🚀
+UofT CS (AI Spec) • Building products that ship & scale
 
 <a href="https://www.linkedin.com/in/gracegazi/">
   <img src="https://img.shields.io/badge/LinkedIn-gracegazi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -18,38 +16,29 @@ UofT CS (AI Spec) • Building products that ship & scale 🚀
 </a>
 
 <br/><br/>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3pwNXQ5aGFoeHZoYzg2aHY5cW82N3pqMm95dHR6ajJiaDE1aDZubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="180" />
+
 </div>
 
 ---
 
-## ✨ About
-I am a Software Engineer focused on **backend systems** + **ML/GenAI**—I love turning ideas into reliable production services.
-
-## 🧩 Highlights
-- 🟦 **Amazon (2025):** Built a GDPR data-deletion microservice handling **80K+ requests/month**, boosting throughput **+40%**. Added tests across **6+ services**, catching **15+** breaking changes; reduced data-correction tickets **25%**. Improved incident triage **30 → 18 min** and supported **99.9% uptime**.  
-- 🛰️ **Lockheed Martin:** Productionized a **YOLOv8** anomaly detection service (FastAPI + ONNX + Docker), cutting inference latency **40%** and scaling to **100+ images/min**. Built CI + regression tests, eliminating **3** critical regressions and saving **4 hrs/week** QA.  
-- 🤖 **Amazon (2024):** Built a GenAI Slackbot answering **500 tickets/month**, deflecting **65%** Tier-1. RAG pipeline reduced response time **11 → 4.5 min** and cut SLA breaches **35%**.  
-- 🛍️ **Shopify:** Improved resiliency and cut API response times **15%** under production load.  
-- 🏥 **Sunnybrook:** Trained a 3D U-Net improving Dice **0.62 → 0.79** across **400+** scans.  
-- 🧠 **Goppa AI Labs:** Built & released **LogiLlama** (open-source **1B** small-scale reasoning model) optimized for on-device inference.
-
-*(Source: resume)*
-
-## 🧰 Tech
-**TS/JS, Python, Java, C/C++** • **PyTorch/TensorFlow/HF/OpenAI API** • **React/Node/FastAPI** • **Postgres/MySQL/DynamoDB** • **AWS** • **Docker/GitHub Actions/Jest**
+## About
+I am Grace, a Computer Science student at the University of Toronto (AI specialization) who loves building systems that are reliable in production and genuinely useful to people. I have worked on backend services, ML inference pipelines, and GenAI-powered internal tools across companies like Amazon, Lockheed Martin, and Shopify—usually with a focus on improving throughput, latency, and operational reliability. Outside of school, I am passionate about philanthropy and impact. Right now, I am focused on helping establish and support organizations that bring innovative technology and education to sanitation and disease prevention—especially in communities where basic health infrastructure is hardest to access.
 
 ---
 
-<div align="center">
+## Highlights
+At Amazon, I built a GDPR-compliant data deletion microservice processing 80K+ requests per month and improved throughput by 40% compared to the legacy workflow. I strengthened reliability by adding integration and contract testing across 6+ downstream services, catching 15+ breaking changes before production and reducing data-correction tickets by 25%. I also improved on-call effectiveness by instrumenting metrics, structured logs, and alarms, reducing median triage time from 30 to 18 minutes while supporting 99.9% monthly uptime.
 
-<img src="https://github-readme-stats.vercel.app/api?username=gracegazi&show_icons=true" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gracegazi&layout=compact" />
+At Lockheed Martin, I productionized a YOLOv8 anomaly detection service using FastAPI, ONNX Runtime, and Docker, cutting per-image inference latency by 40% and scaling to 100+ satellite images per minute on a GPU cluster. I set up CI and regression testing to prevent repeat incidents, eliminating 3 critical regressions and saving 4 hours per week in manual QA.
 
-<br/><br/>
-### 🌿 Off the keyboard
-Pilates 🧘‍♀️ • Working out 🏋️‍♀️ • Chasing consistency + good playlists 🎧
+At Amazon, I built a GenAI Slackbot that handled 500 internal tickets per month and deflected 65% of Tier-1 questions. By implementing a retrieval-augmented generation pipeline over a DynamoDB-backed knowledge base, I reduced median response time from 11 to 4.5 minutes and cut SLA breaches by 35%.
 
-<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="60"/>
-</div>
+At Shopify, I shipped internal analytics APIs and improved resiliency while reducing average response times by 15% under production load.
+
+At Sunnybrook Research Institute, I trained a 3D U-Net for thermal ablation prediction and improved segmentation quality (Dice) from 0.62 to 0.79 across 400+ scans.
+
+I also built and released LogiLlama, an open-source 1B-parameter small-scale reasoning model optimized for on-device inference.
+
+---
