@@ -3,7 +3,7 @@
 # Grace Gazi 👋
 
 <b>Software Engineer • AI/ML • Systems</b>  
-UofT CS (AI Spec) • Building products that ship & scale
+UofT CS • Building products that ship & scale
 
 <a href="https://www.linkedin.com/in/gracegazi/">
   <img src="https://img.shields.io/badge/LinkedIn-gracegazi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
