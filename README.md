@@ -24,21 +24,8 @@ UofT CS (AI Spec) • Building products that ship & scale
 ---
 
 ## About
-I am Grace, a Computer Science student at the University of Toronto (AI specialization) who loves building systems that are reliable in production and genuinely useful to people. I have worked on backend services, ML inference pipelines, and GenAI-powered internal tools across companies like Amazon, Lockheed Martin, and Shopify—usually with a focus on improving throughput, latency, and operational reliability. Outside of school, I am passionate about philanthropy and impact. Right now, I am focused on helping establish and support organizations that bring innovative technology and education to sanitation and disease prevention—especially in communities where basic health infrastructure is hardest to access.
+I am Grace, a Computer Science student at the University of Toronto, who loves building systems that are reliable in production and genuinely useful to people. I have worked on backend services, ML inference pipelines, and GenAI-powered internal tools across companies like Amazon, Lockheed Martin, and Shopify—usually with a focus on improving throughput, latency, and operational reliability. 
 
----
-
-## Highlights
-At Amazon, I built a GDPR-compliant data deletion microservice processing 80K+ requests per month and improved throughput by 40% compared to the legacy workflow. I strengthened reliability by adding integration and contract testing across 6+ downstream services, catching 15+ breaking changes before production and reducing data-correction tickets by 25%. I also improved on-call effectiveness by instrumenting metrics, structured logs, and alarms, reducing median triage time from 30 to 18 minutes while supporting 99.9% monthly uptime.
-
-At Lockheed Martin, I productionized a YOLOv8 anomaly detection service using FastAPI, ONNX Runtime, and Docker, cutting per-image inference latency by 40% and scaling to 100+ satellite images per minute on a GPU cluster. I set up CI and regression testing to prevent repeat incidents, eliminating 3 critical regressions and saving 4 hours per week in manual QA.
-
-At Amazon, I built a GenAI Slackbot that handled 500 internal tickets per month and deflected 65% of Tier-1 questions. By implementing a retrieval-augmented generation pipeline over a DynamoDB-backed knowledge base, I reduced median response time from 11 to 4.5 minutes and cut SLA breaches by 35%.
-
-At Shopify, I shipped internal analytics APIs and improved resiliency while reducing average response times by 15% under production load.
-
-At Sunnybrook Research Institute, I trained a 3D U-Net for thermal ablation prediction and improved segmentation quality (Dice) from 0.62 to 0.79 across 400+ scans.
-
-I also built and released LogiLlama, an open-source 1B-parameter small-scale reasoning model optimized for on-device inference.
+Outside of school, I am passionate about philanthropy and impact. Right now, I am focused on helping establish and support organizations that bring innovative technology and education to sanitation and disease prevention—especially in communities where basic health infrastructure is hardest to access.
 
 ---
