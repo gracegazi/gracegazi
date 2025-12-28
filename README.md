@@ -1,6 +1,6 @@
 <div align="center">
 
-# Grace Farbin 👋
+# Grace Gazi 👋
 
 <b>Software Engineer • AI/ML • Systems</b>  
 UofT CS (AI Spec) • Building products that ship & scale
