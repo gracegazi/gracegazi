@@ -28,6 +28,6 @@ I'm Grace, a software engineer in Toronto.
 
 I currently work as a software engineer at @Amazon, but previously have worked @Cohere, @Shopify, and @Lockheed Martin.
 
-Outside of school, I am passionate about philanthropy and impact. Right now, I am focused on helping establish and support organizations that bring innovative technology and education to sanitation and disease prevention—especially in communities where basic health infrastructure is hardest to access.
+Outside of school, I am passionate about philanthropy and impact. Right now, I am focused on helping establish and support organizations that bring innovative technology and education to sanitation and disease prevention, especially in communities where basic health infrastructure is hardest to access.
 
 ---
