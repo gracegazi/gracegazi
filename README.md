@@ -24,7 +24,9 @@ UofT CS • Building products that ship & scale
 ---
 
 ## About
-I'm Grace, a Computer Science student at the University of Toronto, who loves building systems that are reliable in production and genuinely useful to people. I have worked on backend services, ML inference pipelines, and GenAI-powered internal tools across companies like Amazon, Lockheed Martin, and Shopify—usually with a focus on improving throughput, latency, and operational reliability. 
+I'm Grace, a software engineer in Toronto.
+
+I currently work as a software engineer at @Amazon, but previously have worked @Cohere, @Shopify, and @Lockheed Martin.
 
 Outside of school, I am passionate about philanthropy and impact. Right now, I am focused on helping establish and support organizations that bring innovative technology and education to sanitation and disease prevention—especially in communities where basic health infrastructure is hardest to access.
 
